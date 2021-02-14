@@ -1,31 +1,31 @@
 <?php
 
 //Registration, Sign-Up
-define("ABI_UI_WELCOME_HEADER", "Sign in to Community Hub");
-define("ABI_UI_WELCOME_HEADER_PWRESET", "Reset your password");
-define("ABI_UI_WELCOME_HEADER_REGISTER", "Create an account");
+define("ABI_UI_WELCOME_HEADER", "Zaloguj się do Community Hub");
+define("ABI_UI_WELCOME_HEADER_PWRESET", "Zrestartuj hasło");
+define("ABI_UI_WELCOME_HEADER_REGISTER", "Stwórz konto");
 
-define("ABI_UI_WELCOME_INFO_NOACCOUNT", "Not a member of ABI yet?");
-define("ABI_UI_WELCOME_INFO_PWRESET", "Enter your email to reset your password");
-define("ABI_UI_WELCOME_INFO_CREATE", "Enter your details to create an account");
+define("ABI_UI_WELCOME_INFO_NOACCOUNT", "Nie posiadasz konta ABI?");
+define("ABI_UI_WELCOME_INFO_PWRESET", "Wprowadz email by zmienić hasło");
+define("ABI_UI_WELCOME_INFO_CREATE", "Wprowadź swoje informacje, aby utworzyć konto");
 define("ABI_UI_WELCOME_INFO_AGREEBOX", "I agree to the");
 
-define("ABI_UI_WELCOME_HEADER_PWRESET_SENT", "Request sent!");
-define("ABI_UI_WELCOME_INFO_PWRESET_SENT", "If this email address is known on our end, you will receive an email shortly.");
+define("ABI_UI_WELCOME_HEADER_PWRESET_SENT", "Prośba wysłana!");
+define("ABI_UI_WELCOME_INFO_PWRESET_SENT", "Jeśli ten email jest znany, zachwilę dostaniesz email.");
 
-define("ABI_UI_WELCOME_HEADER_PWRESET_COMPLETE", "Password reset processed!");
-define("ABI_UI_WELCOME_INFO_PWRESET_COMPLETE", "Your password reset has been processed and your password has been changed.");
+define("ABI_UI_WELCOME_HEADER_PWRESET_COMPLETE", "Restart hasła wykonany!");
+define("ABI_UI_WELCOME_INFO_PWRESET_COMPLETE", "Restart hasła wykonany, użyj nowego hasła by się zalogować.");
 
-define("ABI_UI_WELCOME_HEADER_PW_NO_MATCH", "Your passwords do not match!");
-define("ABI_UI_WELCOME_INFO_PW_NO_MATCH", "The entered passwords do not match.");
+define("ABI_UI_WELCOME_HEADER_PW_NO_MATCH", "Hasła się nie zgadzają!");
+define("ABI_UI_WELCOME_INFO_PW_NO_MATCH", "Hasło jest nie prawidłowe.");
 
-define("ABI_UI_WELCOME_HEADER_PW_TOO_WEAK", "Password too weak!");
-define("ABI_UI_WELCOME_INFO_PW_TOO_WEAK", "Your password is too weak. For your own safety, please use a stronger password.");
+define("ABI_UI_WELCOME_HEADER_PW_TOO_WEAK", "Hasło jest zasłabe!");
+define("ABI_UI_WELCOME_INFO_PW_TOO_WEAK", "Hasło jest zasłabe. Dla Twojego bezpieczeństwa, proszę użyj lepsze hasło.");
 
-define("ABI_UI_WELCOME_HEADER_EMAIL_INVALID", "Email address invalid!");
-define("ABI_UI_WELCOME_INFO_EMAIL_INVALID", "The entered email address is not valid. Please make sure to check for typos.");
+define("ABI_UI_WELCOME_HEADER_EMAIL_INVALID", "Email jest nieprawidłowy!");
+define("ABI_UI_WELCOME_INFO_EMAIL_INVALID", "wpisany email jest nieprawidłowy. Proszę sprawdz wpisany email po błędy.");
 
-define("ABI_UI_WELCOME_HEADER_ACCOUNT_AWAIT_CONFIRM", "Welcome to ABI!");
+define("ABI_UI_WELCOME_HEADER_ACCOUNT_AWAIT_CONFIRM", "Witamy w ABI!");
 define("ABI_UI_WELCOME_INFO_ACCOUNT_AWAIT_CONFIRM", "Your user account has been created and is now awaiting confirmation. Please check your email inbox, spam and promotional folders.");
 
 define("ABI_UI_WELCOME_HEADER_ACCOUNT_CONFIRMED", "Welcome to ABI!");
